@@ -11,7 +11,6 @@ struct ContentView: View {
     private let rect = 7
     private let spacing: CGFloat = 10
     private let cornerRadius: CGFloat = 10
-
     private let colors: [Color] = [.red, .orange, .yellow, .green, .blue, .indigo, .purple, .pink]
 
     var body: some View {
